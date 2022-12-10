@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning Python on CS50P. 
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me:
-     ⭐ @senbazuru on Scratch (https://scratch.mit.edu/users/senbazuru) 
-     ⭐ @orizuru on Codecademy (https://www.codecademy.com/profiles/orizuru)
-     ⭐ @The_Oh on Edx and Ed
-     ⭐ @theotheelectroflute@gmail.com ~ please don't spam!
+  - @senbazuru on Scratch (https://scratch.mit.edu/users/senbazuru) 
+  - @orizuru on Codecademy (https://www.codecademy.com/profiles/orizuru)
+  - @The_Oh on Edx and Ed
 
 <!---
 orizurux1000/orizurux1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
