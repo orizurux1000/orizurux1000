@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @orizurux1000.
-- 🌱 Taken: CS50T, CS50S, taking CS50P
-- 📫 I'm also on Replit, so follow me there!
-
-<!---
-orizurux1000/orizurux1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @orizurux1000. I mostly use this account for CS50 (see below); in the future I may use it for web/etc. developing.
+- 🌱 I've taken multiple CS50 courses; I use Python and Javascript as well as HTML/CSS for developing.
+- 🎵 I use MuseScore4 for composing music and occasionally post bugs/glitches here.
+- 📫 I'm on Replit with the same username; I don't use it much though.
+- 🙏 Thank you for visiting my profile. _triunk_
