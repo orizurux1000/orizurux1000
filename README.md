@@ -2,4 +2,4 @@
 - 🌱 I've taken multiple CS50 courses; I use Python and Javascript as well as HTML/CSS for developing.
 - 🎵 I use MuseScore4 for composing music and occasionally post bugs/glitches here.
 - 📫 I'm on Replit with the same username; I don't use it much though.
-- 🙏 Thank you for visiting my profile. _triunk_
+- 🙏 Thank you for visiting my profile. _triunk olami_
