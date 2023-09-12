@@ -1,1 +1,1 @@
-Aspiring full-stack developer :)
+Aspiring full-stack developer.
